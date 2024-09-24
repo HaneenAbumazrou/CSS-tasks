@@ -1,0 +1,23 @@
+p .one{
+color: red;
+font-size: medium;
+font-family: 'Courier New', Courier, monospace;
+}
+p .two{
+    color:green;
+    font-size: medium;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+    }
+ p .three{
+        color:blue;
+        font-size: medium;
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        
+        }
+        p .four{
+            color:yellow;
+            font-size: medium;
+            font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+            
+            }
